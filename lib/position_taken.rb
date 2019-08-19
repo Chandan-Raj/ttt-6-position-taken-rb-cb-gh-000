@@ -4,6 +4,6 @@ def position_taken?(board,index=0)
   if(board==[" ", " ", " ", " ", " ", " ", " ", " ", " "] || board = ["", " ", " ", " ", " ", " ", " ", " ", " "] )
     return false
 else
-  return true
+  true
 end
 end
