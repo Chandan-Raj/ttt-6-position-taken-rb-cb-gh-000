@@ -5,5 +5,5 @@ def position_taken?(board,index=0)
     return false
   end
 elsif cboard = ["X", " ", " ", " ", " ", " ", " ", " ", "O"]
-
+  return true
 end
