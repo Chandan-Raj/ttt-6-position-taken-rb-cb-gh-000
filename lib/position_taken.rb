@@ -2,5 +2,5 @@
 
 def position_taken?(board,index=0)
   if(board==[" ", " ", " ", " ", " ", " ", " ", " ", " "])
-    return false 
+    return false
 end
